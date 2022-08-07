@@ -16,7 +16,11 @@ b. Modify server/app.js
 
 - const mongoDB = "mongodb://localhost:27017/playground"; // process.env.DATABASE;
 
-c. server: npm start
+c. cd server
+
+d. server: npm install
+
+e. server: npm start
 
 - Result: Server is up and running on port number: 8081
 
